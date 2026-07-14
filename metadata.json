@@ -1,0 +1,6 @@
+{
+  "name": "Google Meet Manager",
+  "description": "An application to create, view, and configure Google Meet spaces, enabling users to schedule, manage settings, and access virtual meeting rooms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
